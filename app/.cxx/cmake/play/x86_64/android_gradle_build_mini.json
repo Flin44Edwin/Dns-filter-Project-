@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/edwinpc/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/edwinpc/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/edwinpc/AndroidStudioProjects/Dns Filiter project/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/edwinpc/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/edwinpc/AndroidStudioProjects/Dns Filiter project/app/.cxx/cmake/play/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/edwinpc/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/edwinpc/AndroidStudioProjects/Dns Filiter project/app/.cxx/cmake/play/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "netguard-Release-x86_64": {
+      "artifactName": "netguard",
+      "buildCommand": "/Users/edwinpc/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/edwinpc/AndroidStudioProjects/Dns Filiter project/app/.cxx/cmake/play/x86_64\" netguard",
+      "abi": "x86_64",
+      "output": "/Users/edwinpc/AndroidStudioProjects/Dns Filiter project/app/build/intermediates/cmake/play/obj/x86_64/libnetguard.so",
+      "runtimeFiles": []
+    }
+  }
+}
