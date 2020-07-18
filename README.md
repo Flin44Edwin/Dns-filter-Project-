@@ -1,1 +1,1 @@
-
+The application runs on Android devices 4.2 and higher . Helps to prevent the user from accessing a list of blocked URLs and also specific traffic on every application. Please note this modification of netGaurd application from Google.
